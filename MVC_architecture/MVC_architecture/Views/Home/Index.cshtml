@@ -1,0 +1,33 @@
+﻿@using MVC_architecture.Models
+@model IEnumerable<Phone>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    tr {
+        border: 1px solid #000000;
+    }
+</style>
+
+<h2>Список телефонов</h2>
+<table>
+    <tr>
+        <td>Фамилия</td>
+        <td>Номер</td>
+        <td></td>
+        <td></td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Last_name</td>
+            <td>@item.Phone_number</td>
+            <td><p><a href="/Home/Update/@item.Id">Обновить</a></p></td>
+            <td><p><a href="/Home/Delete/@item.Id">Удалить</a></p></td>
+        </tr>
+    }
+</table>
+

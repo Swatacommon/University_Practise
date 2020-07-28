@@ -1,0 +1,17 @@
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\HostForWCF.exe.config
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\HostForWCF.exe
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\HostForWCF.pdb
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\WcfService.dll
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\ClassLibrary.dll
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\EntityFramework.dll
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\WcfService.pdb
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\WcfService.dll.config
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\ClassLibrary.pdb
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\ClassLibrary.dll.config
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\EntityFramework.xml
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\obj\Debug\HostForWCF.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\obj\Debug\HostForWCF.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\obj\Debug\HostForWCF.exe
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\obj\Debug\HostForWCF.pdb
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studying\Course_3\Second_2sem\University_Practise\SOA_architecture\HostForWCF\bin\Debug\EntityFramework.SqlServer.xml

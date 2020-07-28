@@ -1,0 +1,11 @@
+D:\Studying\Course_3\Second_2sem\University_Practise\Client_Server_3_tier\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+D:\Studying\Course_3\Second_2sem\University_Practise\Client_Server_3_tier\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Studying\Course_3\Second_2sem\University_Practise\Client_Server_3_tier\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Studying\Course_3\Second_2sem\University_Practise\Client_Server_3_tier\ClassLibrary\bin\Debug\EntityFramework.dll
+D:\Studying\Course_3\Second_2sem\University_Practise\Client_Server_3_tier\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studying\Course_3\Second_2sem\University_Practise\Client_Server_3_tier\ClassLibrary\bin\Debug\EntityFramework.xml
+D:\Studying\Course_3\Second_2sem\University_Practise\Client_Server_3_tier\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studying\Course_3\Second_2sem\University_Practise\Client_Server_3_tier\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\University_Practise\Client_Server_3_tier\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Studying\Course_3\Second_2sem\University_Practise\Client_Server_3_tier\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Studying\Course_3\Second_2sem\University_Practise\Client_Server_3_tier\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache

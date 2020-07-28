@@ -1,0 +1,38 @@
+﻿@model MVC_architecture.Models.Phone
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Удаление телефона</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Last_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Last_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone_number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone_number)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
