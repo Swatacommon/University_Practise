@@ -1,0 +1,5 @@
+D:\Studying\Course_3\Second_2sem\University_Practise\MVP_architecture\MVP_architecture.DataAccess\bin\Debug\MVP_architecture.DataAccess.dll
+D:\Studying\Course_3\Second_2sem\University_Practise\MVP_architecture\MVP_architecture.DataAccess\bin\Debug\MVP_architecture.DataAccess.pdb
+D:\Studying\Course_3\Second_2sem\University_Practise\MVP_architecture\MVP_architecture.DataAccess\obj\Debug\MVP_architecture.DataAccess.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\University_Practise\MVP_architecture\MVP_architecture.DataAccess\obj\Debug\MVP_architecture.DataAccess.dll
+D:\Studying\Course_3\Second_2sem\University_Practise\MVP_architecture\MVP_architecture.DataAccess\obj\Debug\MVP_architecture.DataAccess.pdb
