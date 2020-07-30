@@ -1,0 +1,14 @@
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\bin\Debug\MVVM_architecture.exe.config
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\bin\Debug\MVVM_architecture.exe
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\bin\Debug\MVVM_architecture.pdb
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\obj\Debug\MVVM_architecture.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\obj\Debug\MainWindow.g.cs
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\obj\Debug\App.g.cs
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\obj\Debug\MVVM_architecture_MarkupCompile.cache
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\obj\Debug\MVVM_architecture_MarkupCompile.lref
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\obj\Debug\MainWindow.baml
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\obj\Debug\MVVM_architecture.g.resources
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\obj\Debug\MVVM_architecture.Properties.Resources.resources
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\obj\Debug\MVVM_architecture.csproj.GenerateResource.cache
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\obj\Debug\MVVM_architecture.exe
+D:\Studying\Course_3\Second_2sem\University_Practise\MVVM_architecture\MVVM_architecture\obj\Debug\MVVM_architecture.pdb
