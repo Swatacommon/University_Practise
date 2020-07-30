@@ -16,12 +16,11 @@
     </Window.Resources>
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*" />
-            <ColumnDefinition Width="0.8*" />
+            <ColumnDefinition />
         </Grid.ColumnDefinitions>
 
         <ListBox Grid.Column="0" ItemsSource="{Binding Phones}"
-                 SelectedItem="{Binding SelectedPhone}">
+                 SelectedItem="{Binding SelectedPhone}" Margin="10,10,9.6,187">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Margin="5">
@@ -33,7 +32,7 @@
             </ListBox.ItemTemplate>
         </ListBox>
 
-        <StackPanel Grid.Column="1" DataContext="{Binding SelectedPhone}">
+        <StackPanel DataContext="{Binding SelectedPhone}" Margin="5,238,9.6,0">
             <TextBlock Text="Выбранный элемент"  />
             <TextBlock Text="ID" />
             <TextBox Text="{Binding Id, UpdateSourceTrigger=PropertyChanged}" />
