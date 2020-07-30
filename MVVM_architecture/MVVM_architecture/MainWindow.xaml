@@ -33,7 +33,7 @@
         </ListBox>
 
         <StackPanel DataContext="{Binding SelectedPhone}" Margin="5,238,9.6,0">
-            <TextBlock Text="Выбранный элемент"  />
+            <TextBlock Text="Выбранный телефон"  />
             <TextBlock Text="ID" />
             <TextBox Text="{Binding Id, UpdateSourceTrigger=PropertyChanged}" />
             <TextBlock Text="Имя" />
